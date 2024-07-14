@@ -10,4 +10,5 @@ The output is formatted using the tabulate library, which presents the informati
 Overall, the WebScout is a useful utility for developers, security professionals, and anyone who needs to gather detailed information about a website quickly and efficiently.
 
 # How to install tool
-
+## 1. Clone the repository
+*** git clone <Insert Link>
